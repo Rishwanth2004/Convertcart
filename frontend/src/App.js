@@ -41,7 +41,7 @@ const FilterComponent = () => {
   };
 
   const handleEvaluate = () => {
-  axios.post(`${process.env.REACT_APP_API_URL}/evaluate`, {
+  axios.post(`${process.env.REACT_APP_API_URL}/segments/evaluate`, {
     segmentName: 'Custom Segment',
     conditions: filterRules.join('\n')
   })
