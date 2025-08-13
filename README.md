@@ -1,6 +1,6 @@
 ** Deliverables**
  **GitHub repository with clean commit history**
- 	https://github.com/Rishwanth2004/Convertcart /n
+ 	https://github.com/Rishwanth2004/Convertcart
   
  **Live deployment link**
 Frontend: https://convertcart-frontend.vercel.app
